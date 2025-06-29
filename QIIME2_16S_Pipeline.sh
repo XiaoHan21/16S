@@ -29,7 +29,7 @@ RUSH_PATH=/home/han_xiao/xiaohan/Software/miniconda3/envs/rush/bin/rush
 WORK_DIR=/home/han_xiao/xiaohan/Others/Ruwen/SRP542009/01.data
 SRR_LIST=$WORK_DIR/srr.txt
 # CLASSIFIER_DB=/home/han_xiao/xiaohan/Database/16S/gg-13-8-99-nb-classifier.qza # compatiable with qiime2 v2021
-# CLASSIFIER_DB=/home/han_xiao/xiaohan/Database/16S/silva-138-99-nb-classifier.qza # compatiable with qiime2 v2024
+CLASSIFIER_DB=/home/han_xiao/xiaohan/Database/16S/silva-138-99-nb-classifier.qza # compatiable with qiime2 v2024
 CPU=40
 
 # ---------------- Step 1: Download SRR FASTQ ---------------- #
